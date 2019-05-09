@@ -1,0 +1,17 @@
+C:\Users\Erwin\source\repos\Software Architecture Meta and SOLID Principles in C#\Exercises\5-DIP\DIP2\DIP_Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Erwin\source\repos\Software Architecture Meta and SOLID Principles in C#\Exercises\5-DIP\DIP2\DIP_Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Erwin\source\repos\Software Architecture Meta and SOLID Principles in C#\Exercises\5-DIP\DIP2\DIP_Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Erwin\source\repos\Software Architecture Meta and SOLID Principles in C#\Exercises\5-DIP\DIP2\DIP_Test\bin\Debug\netcoreapp2.1\DIP_Test.deps.json
+C:\Users\Erwin\source\repos\Software Architecture Meta and SOLID Principles in C#\Exercises\5-DIP\DIP2\DIP_Test\bin\Debug\netcoreapp2.1\DIP_Test.runtimeconfig.json
+C:\Users\Erwin\source\repos\Software Architecture Meta and SOLID Principles in C#\Exercises\5-DIP\DIP2\DIP_Test\bin\Debug\netcoreapp2.1\DIP_Test.runtimeconfig.dev.json
+C:\Users\Erwin\source\repos\Software Architecture Meta and SOLID Principles in C#\Exercises\5-DIP\DIP2\DIP_Test\bin\Debug\netcoreapp2.1\DIP_Test.dll
+C:\Users\Erwin\source\repos\Software Architecture Meta and SOLID Principles in C#\Exercises\5-DIP\DIP2\DIP_Test\bin\Debug\netcoreapp2.1\DIP_Test.pdb
+C:\Users\Erwin\source\repos\Software Architecture Meta and SOLID Principles in C#\Exercises\5-DIP\DIP2\DIP_Test\bin\Debug\netcoreapp2.1\DIP.dll
+C:\Users\Erwin\source\repos\Software Architecture Meta and SOLID Principles in C#\Exercises\5-DIP\DIP2\DIP_Test\bin\Debug\netcoreapp2.1\DIP.pdb
+C:\Users\Erwin\source\repos\Software Architecture Meta and SOLID Principles in C#\Exercises\5-DIP\DIP2\DIP_Test\obj\Debug\netcoreapp2.1\DIP_Test.csprojAssemblyReference.cache
+C:\Users\Erwin\source\repos\Software Architecture Meta and SOLID Principles in C#\Exercises\5-DIP\DIP2\DIP_Test\obj\Debug\netcoreapp2.1\DIP_Test.csproj.CoreCompileInputs.cache
+C:\Users\Erwin\source\repos\Software Architecture Meta and SOLID Principles in C#\Exercises\5-DIP\DIP2\DIP_Test\obj\Debug\netcoreapp2.1\DIP_Test.AssemblyInfoInputs.cache
+C:\Users\Erwin\source\repos\Software Architecture Meta and SOLID Principles in C#\Exercises\5-DIP\DIP2\DIP_Test\obj\Debug\netcoreapp2.1\DIP_Test.AssemblyInfo.cs
+C:\Users\Erwin\source\repos\Software Architecture Meta and SOLID Principles in C#\Exercises\5-DIP\DIP2\DIP_Test\obj\Debug\netcoreapp2.1\DIP_Test.csproj.CopyComplete
+C:\Users\Erwin\source\repos\Software Architecture Meta and SOLID Principles in C#\Exercises\5-DIP\DIP2\DIP_Test\obj\Debug\netcoreapp2.1\DIP_Test.dll
+C:\Users\Erwin\source\repos\Software Architecture Meta and SOLID Principles in C#\Exercises\5-DIP\DIP2\DIP_Test\obj\Debug\netcoreapp2.1\DIP_Test.pdb
